@@ -2,7 +2,7 @@
 - 👀 I’m interested in uploading projects of my own
 - 🌱 I’m currently learning JavaScript, Node.Js, Phyton, Visual Studio NET, SQl Server relational databases
 - 💞️ I’m looking to collaborate on Free Projects based on JavaScript, HTML, Angular and Node JS
-- 📫 You can reach me at maxiqui@hotmail.com
+- 📫 You can reach me at maxiqui4@hotmail.com
 - 
 
 <!---
